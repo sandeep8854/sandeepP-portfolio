@@ -44,6 +44,8 @@ a:hover {
   max-width: 35rem;
   display: block;
   margin: auto;
+  width: 100%;
+  height: auto;
 }
 .heading {
   text-align: center;
