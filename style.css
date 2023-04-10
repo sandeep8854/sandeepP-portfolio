@@ -112,6 +112,9 @@ button {
   font-weight: bold;
   display: inline-block;
 }
+a {
+  text-decoration: none;
+}
 
 .blogs {
   padding-top: 1rem;
@@ -141,4 +144,8 @@ footer ul li {
 footer ul li a {
   text-decoration: none;
   font-weight: bold;
+}
+
+.card p {
+  color: white;
 }
